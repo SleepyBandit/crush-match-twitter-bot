@@ -43,7 +43,7 @@ node server.js
 ## Additional Information
 I've included methods for adding new friends (ie following people) based on a query term and total numbers of users you wish to reach.
 
-To run this when you first start the bot, you need to add ```bot.getfriends();``` to bottom of the ```server.js``` file.
+To run this when you first start the bot, you need to add ```bot.getFriends(T);``` to bottom of the ```server.js``` file.
 
 This will find new users to follow based on your query parameter (like a hashtag) and continue to do so until you've reach the total number of users to follow you have configured
 <!-- /EXTRA -->
