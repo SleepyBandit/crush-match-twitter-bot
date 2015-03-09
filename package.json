@@ -1,0 +1,12 @@
+{
+  "name": "crush-match-twitter-bot",
+  "author": {
+    "name": "SleepyBandit"
+  },
+  "description": "A basic twitter bot that matches people with their crushes",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^3.8.21",
+    "twit": "*"
+  }
+}
